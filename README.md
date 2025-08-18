@@ -11,4 +11,5 @@
   I specialize in:
 
 🔹📊 Turning complex data into clear, actionable insights
-🔹brush 
+🔹🧹 Cleaning and structuring  messy datasets (Excel + Python & Power BI Combo!)
+🔹:chart_with_upwards_trend: Creating visually compelling dashboard with Power BI & Microsoft Excel
