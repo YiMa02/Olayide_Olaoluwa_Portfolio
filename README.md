@@ -6,7 +6,6 @@
 
 **About Me**
 
-  I'm a naturally critical thinker and business-minded data analyst with a creative background in the arts,
-  who also has the strong will to uncover insights that move business forward.
+ I am an inherently analytical thinker and business-oriented data analyst, possessing a creative background in the arts. Additionally, I am highly motivated to uncover insights that drive business progress.
 
   I specialize in:
