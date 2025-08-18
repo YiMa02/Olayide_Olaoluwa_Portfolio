@@ -11,4 +11,4 @@
   I specialize in:
 
 🔹📊 Turning complex data into clear, actionable insights
-🔹
+🔹brush 
