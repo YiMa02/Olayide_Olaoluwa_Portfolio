@@ -3,4 +3,5 @@
 :chart_with_upwards_trend: # Data Analyst | Power BI Storyteller | Python Enthusiast | SQL | Excel
 
 🌐 Based in **Nigeria**
+
 **About Me**
