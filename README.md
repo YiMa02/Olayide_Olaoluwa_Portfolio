@@ -6,10 +6,12 @@
 
 **About Me**
 
- I am an inherently analytical thinker and business-oriented data analyst, possessing a creative background in the arts. Additionally, I am highly motivated to uncover insights that drive business progress.
+ I am an inherently analytical thinker and business-oriented data analyst, possessing a creative background in the arts. 
+ Additionally, I am highly motivated to uncover insights that drive business progress.
 
-  I specialize in:
+  **I specialize in:**
 
 🔹📊 Turning complex data into clear, actionable insights
-🔹🧹 Cleaning and structuring  messy datasets (Excel + Python & Power BI Combo!)
-🔹:chart_with_upwards_trend: Creating visually compelling dashboard with Power BI & Microsoft Excel
+🔹🧹 Cleaning and structuring  messy datasets **(Excel + Python & Power BI Combo!)**
+🔹📈 Creating visually compelling dashboard with **Power BI & Microsoft Excel**
+🔹🧠 Asking the right questions before running the numbers
