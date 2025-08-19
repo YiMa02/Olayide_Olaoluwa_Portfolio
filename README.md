@@ -66,6 +66,6 @@ I enjoy helping teams make smarter, data-driven decisions.
 
 **💼 What I'm Working On**
 
-🔹 🔍A **Fintech-focused PowerBI project** (cleaning & using **DAX** to create decision  making dashboards)
+🔹 🔍A **Fintech-focused Power BI project** (cleaning & using **DAX** to create decision  making dashboards)
 
 🔹🧱 Building a **portfolio of end-to-end  projects** (Excel➡SQL➡Power BI➡Python)
