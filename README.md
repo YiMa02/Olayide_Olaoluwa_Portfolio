@@ -23,3 +23,10 @@ Whether it's tracking customer loyalty, uncovering hidden patterns, or building 
 I enjoy helping teams make smarter, data-driven decisions.
 
 <u>**⚙️ Skills Snapshot**<u/>
+
+**🛢️ SQL (MySQL & PostgreSQL)**
+🔹Writing optimized queries with JOINs, CTEs, and Window Functions
+🔹Data exploration, transformation, and performance tuning
+🔹Creating analysis-ready datasets for reporting
+
+
