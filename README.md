@@ -27,7 +27,17 @@ I enjoy helping teams make smarter, data-driven decisions.
 **🛢️ SQL (MySQL & PostgreSQL)**
 
 🔹Writing optimized queries with JOINs, CTEs, and Window Functions
+
 🔹Data exploration, transformation, and performance tuning
+
 🔹Creating analysis-ready datasets for reporting
+
+**📊 Microsoft Excel**
+
+🔹 Data cleaning, wrangling, and spreadsheet modelling
+
+🔹Lookups, pivot tables, and conditional formatting
+
+**🔹Automation** using formulas and macros
 
 
