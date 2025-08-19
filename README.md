@@ -76,6 +76,6 @@ Whether it's tracking customer loyalty, uncovering hidden patterns, or building 
 
 **🔹Soft Skills:** Attention to details, analytical thinker, client communication 
 
-**🤝 Let's Connect**
+## **🤝 Let's Connect**
 
 
