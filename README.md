@@ -26,46 +26,46 @@ I enjoy helping teams make smarter, data-driven decisions.
 
 **🛢️ SQL (MySQL & PostgreSQL)**
 
-🔹Writing optimized queries with JOINs, CTEs, and Window Functions
+🔹Writing optimized queries with JOINs,  CTEs, and Window Functions
 
-🔹Data exploration, transformation, and performance tuning
+🔹Data exploration, transformation, and  performance tuning
 
-🔹Creating analysis-ready datasets for reporting
+🔹Creating analysis-ready datasets for  reporting
 
 **📊 Microsoft Excel**
 
-🔹 Data cleaning, wrangling, and spreadsheet modelling
+🔹 Data cleaning, wrangling, and spreadsheet  modelling
 
-🔹Lookups, pivot tables, and conditional formatting
+🔹Lookups, pivot tables, and conditional  formatting
 
 **🔹Automation** using formulas and macros
 
 **🐍 Python**
 
-🔹 Data manipulatiom with **pandas** and **numpy**
+🔹 Data manipulatiom with **pandas** and  **numpy**
 
-🔹 Automating repetitive tasks and data workflow
+🔹 Automating repetitive tasks and data  workflow
 
-🔹 Data visualization and **matplotlib** and **seaborn**
+🔹 Data visualization and **matplotlib** and  **seaborn**
 
 **📈 Power BI**
 
-🔹 Building clean, intuitive dashboards with a storytelling approach
+🔹 Building clean, intuitive dashboards with a  storytelling approach
 
-🔹 DAX for custom KPIs and dynamic measures
+🔹 DAX for custom KPIs and dynamic  measures
 
-🔹Slicing data by user-friendly visuals and interactive reports
+🔹Slicing data by user-friendly visuals and  interactive reports
 
 **🔁 Bonus**
 
-🔹 Strong communication  and stiorytelling mindsets
+🔹 Strong communication  and stiorytelling  mindsets
 
-🔹 Curious, coachable, and focused on **problem-solving through data**
+🔹 Curious, coachable, and focused on  **problem-solving through data**
 
-🔹 Attention to detail, critical thinking, client communcation
+🔹 Attention to detail, critical thinking, client  communcation
 
 **💼 What I'm Working On
 
-🔹 🔍A **Fintech-focused PowerBI project** (cleaning & using **DAX** to create decision making dashboards)
+🔹 🔍A **Fintech-focused PowerBI project** (cleaning & using **DAX** to create decision  making dashboards)
 
-🔹🧱 Building a **portfolio of end-to-end projects** (Excel➡SQL➡Power BI➡Python)
+🔹🧱 Building a **portfolio of end-to-end  projects** (Excel➡SQL➡Power BI➡Python)
