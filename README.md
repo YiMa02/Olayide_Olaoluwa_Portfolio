@@ -79,5 +79,7 @@ Whether it's tracking customer loyalty, uncovering hidden patterns, or building 
 ## **🤝 Let's Connect**
 
 🔹🌐https://www.linkedin.com/in/pamoleemmanuel/
+
 🔹✉️
+
 🔹📁
