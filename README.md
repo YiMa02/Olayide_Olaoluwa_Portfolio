@@ -1,13 +1,12 @@
-<u><img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> **Hi, I'm Olayide Olaoluwa, but you can call me YIMA** 💎<u/>
+<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> **Hi, I'm Olayide Olaoluwa, but you can call me YIMA** 💎
 
 :chart_with_upwards_trend: 🎯 Data Analyst | Power BI Storyteller | Python Enthusiast | SQL | Excel 
 
-<u>🌐 Based in **Nigeria**<u/>
+🌐 Based in **Nigeria**
 
-<u>**About Me**<u/>
+**About Me**
 
- I am an inherently analytical thinker and business-oriented data analyst, possessing a creative background in the arts. 
- Additionally, I am highly motivated to uncover insights that drive business progress.
+ I am an inherently analytical thinker and business-oriented data analyst, possessing a creative background in the arts.  Additionally, I am highly motivated to uncover insights that drive business progress.
 
   **I specialize in:**
 
@@ -19,54 +18,53 @@
 
 🔹🧠 Asking the right questions before running the numbers
 
-Whether it's tracking customer loyalty, uncovering hidden patterns, or building a data narrative from scratch,
-I enjoy helping teams make smarter, data-driven decisions.
+Whether it's tracking customer loyalty, uncovering hidden patterns, or building a data narrative from scratch, I enjoy helping teams make smarter, data-driven decisions.
 
-<u>**⚙️ Skills Snapshot**<u/>
+**⚙️ Skills Snapshot**
 
 **🛢️ SQL (MySQL & PostgreSQL)**
 
-🔹Writing optimized queries with JOINs,  CTEs, and Window Functions
+🔹Writing optimized queries with JOINs, CTEs, and Window Functions
 
-🔹Data exploration, transformation, and  performance tuning
+🔹Data exploration, transformation, and performance tuning
 
-🔹Creating analysis-ready datasets for  reporting
+🔹Creating analysis-ready datasets for reporting
 
 **📊 Microsoft Excel**
 
-🔹 Data cleaning, wrangling, and spreadsheet  modelling
+🔹 Data cleaning, wrangling, and spreadsheet modelling
 
-🔹Lookups, pivot tables, and conditional  formatting
+🔹Lookups, pivot tables, and conditional formatting
 
 **🔹Automation** using formulas and macros
 
 **🐍 Python**
 
-🔹 Data manipulatiom with **pandas** and  **numpy**
+🔹 Data manipulatiom with **pandas** and **numpy**
 
-🔹 Automating repetitive tasks and data  workflow
+🔹 Automating repetitive tasks and data workflow
 
-🔹 Data visualization and **matplotlib** and  **seaborn**
+🔹 Data visualization and **matplotlib** and **seaborn**
 
 **📈 Power BI**
 
-🔹 Building clean, intuitive dashboards with a  storytelling approach
+🔹 Building clean, intuitive dashboards with a storytelling approach
 
-🔹 DAX for custom KPIs and dynamic  measures
+🔹 DAX for custom KPIs and dynamic measures
 
-🔹Slicing data by user-friendly visuals and  interactive reports
+🔹Slicing data by user-friendly visuals and interactive reports
 
 **🔁 Bonus**
 
-🔹 Strong communication  and stiorytelling  mindsets
+🔹 Strong communication  and stiorytelling mindsets
 
-🔹 Curious, coachable, and focused on  **problem-solving through data**
+🔹 Curious, coachable, and focused on **problem-solving through data**
 
-🔹 Attention to detail, critical thinking, client  communcation
+🔹 Attention to detail, critical thinking, client communcation
 
 **💼 What I'm Working On**
 
-🔹 🔍A **Fintech-focused Power BI project** (cleaning & using **DAX** to create decision  making dashboards)
+🔹 🔍A **Fintech-focused Power BI project** (cleaning & using **DAX** to create decision making dashboards)
 
 🔹🧱 Building a **portfolio of end-to-end  projects** (Excel➡SQL➡Power BI➡Python)
 
@@ -78,6 +76,6 @@ I enjoy helping teams make smarter, data-driven decisions.
 
 **🔹Soft Skills:** Attention to details, analytical thinker, client communication 
 
-[**🤝 Let's Connect**]
+**🤝 Let's Connect**
 
 
