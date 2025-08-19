@@ -1,6 +1,6 @@
 <u><img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> **Hi, I'm Olayide Olaoluwa, but you can call me YIMA** 💎<u/>
 
-:chart_with_upwards_trend: 🎯 Data Analyst | Power BI Storyteller | Python Enthusiast | SQL | Excel
+:chart_with_upwards_trend: **🎯 Data Analyst | Power BI Storyteller | Python Enthusiast | SQL | Excel **
 
 <u>🌐 Based in **Nigeria**<u/>
 
@@ -69,3 +69,12 @@ I enjoy helping teams make smarter, data-driven decisions.
 🔹 🔍A **Fintech-focused Power BI project** (cleaning & using **DAX** to create decision  making dashboards)
 
 🔹🧱 Building a **portfolio of end-to-end  projects** (Excel➡SQL➡Power BI➡Python)
+
+**⚙️ Tools & Skills**
+
+**🔹Tools**: Power BI, Excel, Google Sheets, Canva
+
+**🔹Languages** SQL (MySQL, PostgresSQL), DAX
+
+**🔹Soft Skills:** Attention to details, analytical thinker, client communication 
+
