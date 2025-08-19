@@ -2,9 +2,9 @@
 
 :chart_with_upwards_trend: 🎯 Data Analyst | Power BI Storyteller | Python Enthusiast | SQL | Excel 
 
-🌐 Based in **Nigeria**
+# 🌐 Based in **Nigeria**
 
-**About Me**
+# About Me
 
  I am an inherently analytical thinker and business-oriented data analyst, possessing a creative background in the arts.  Additionally, I am highly motivated to uncover insights that drive business progress.
 
@@ -54,7 +54,7 @@ Whether it's tracking customer loyalty, uncovering hidden patterns, or building 
 
 🔹Slicing data by user-friendly visuals and interactive reports
 
-**🔁 Bonus**
+## 🔁 Bonus
 
 🔹 Strong communication  and stiorytelling mindsets
 
@@ -62,7 +62,7 @@ Whether it's tracking customer loyalty, uncovering hidden patterns, or building 
 
 🔹 Attention to detail, critical thinking, client communcation
 
-**💼 What I'm Working On**
+## 💼 What I'm Working On
 
 🔹 🔍A **Fintech-focused Power BI project** (cleaning & using **DAX** to create decision making dashboards)
 
