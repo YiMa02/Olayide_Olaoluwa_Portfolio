@@ -20,7 +20,7 @@ I specialize in:
 
 Whether it's tracking customer loyalty, uncovering hidden patterns, or building a data narrative from scratch, I enjoy helping teams make smarter, data-driven decisions.
 
-# **⚙️ Skills Snapshot**
+# ⚙️ Skills Snapshot
 
 **🛢️ SQL (MySQL & PostgreSQL)**
 
