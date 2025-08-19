@@ -18,3 +18,6 @@
 🔹📈 Creating visually compelling dashboard with **Power BI & Microsoft Excel**
 
 🔹🧠 Asking the right questions before running the numbers
+
+Whether it's tracking customer loyalty, uncovering hidden patterns, or building a data narrative from scratch,
+I enjoy helping teams make smarter, data-driven decisions.
