@@ -64,7 +64,7 @@ I enjoy helping teams make smarter, data-driven decisions.
 
 🔹 Attention to detail, critical thinking, client  communcation
 
-**💼 What I'm Working On
+**💼 What I'm Working On**
 
 🔹 🔍A **Fintech-focused PowerBI project** (cleaning & using **DAX** to create decision  making dashboards)
 
