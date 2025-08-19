@@ -1,10 +1,10 @@
-# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hi, I'm Olayide Olaoluwa, but you can call me YIMA 💎
+## <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hi, I'm Olayide Olaoluwa, but you can call me YIMA 💎
 
 :chart_with_upwards_trend: 🎯 Data Analyst | Power BI Storyteller | Python Enthusiast | SQL | Excel 
 
 # 🌐 Based in **Nigeria**
 
-# About Me
+## About Me
 
  I am an inherently analytical thinker and business-oriented data analyst, possessing a creative background in the arts.  Additionally, I am highly motivated to uncover insights that drive business progress.
 
@@ -20,9 +20,9 @@ I specialize in:
 
 Whether it's tracking customer loyalty, uncovering hidden patterns, or building a data narrative from scratch, I enjoy helping teams make smarter, data-driven decisions.
 
-# ⚙️ Skills Snapshot
+## ⚙️ Skills Snapshot
 
-**🛢️ SQL (MySQL & PostgreSQL)**
+## **🛢️ SQL (MySQL & PostgreSQL)**
 
 🔹Writing optimized queries with JOINs, CTEs, and Window Functions
 
@@ -30,7 +30,7 @@ Whether it's tracking customer loyalty, uncovering hidden patterns, or building 
 
 🔹Creating analysis-ready datasets for reporting
 
-**📊 Microsoft Excel**
+## **📊 Microsoft Excel**
 
 🔹 Data cleaning, wrangling, and spreadsheet modelling
 
@@ -38,7 +38,7 @@ Whether it's tracking customer loyalty, uncovering hidden patterns, or building 
 
 **🔹Automation** using formulas and macros
 
-**🐍 Python**
+## **🐍 Python**
 
 🔹 Data manipulatiom with **pandas** and **numpy**
 
@@ -46,7 +46,7 @@ Whether it's tracking customer loyalty, uncovering hidden patterns, or building 
 
 🔹 Data visualization and **matplotlib** and **seaborn**
 
-**📈 Power BI**
+## **📈 Power BI**
 
 🔹 Building clean, intuitive dashboards with a storytelling approach
 
@@ -68,7 +68,7 @@ Whether it's tracking customer loyalty, uncovering hidden patterns, or building 
 
 🔹🧱 Building a **portfolio of end-to-end  projects** (Excel➡SQL➡Power BI➡Python)
 
-**⚙️ Tools & Skills**
+## **⚙️ Tools & Skills**
 
 **🔹Tools**: Power BI, Excel, Google Sheets, Canva
 
