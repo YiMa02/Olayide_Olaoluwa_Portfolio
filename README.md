@@ -80,6 +80,6 @@ Whether it's tracking customer loyalty, uncovering hidden patterns, or building 
 
 🔹🌐https://www.linkedin.com/in/pamoleemmanuel/
 
-🔹✉️
+🔹✉️ olayideabdulbasit474@gmail.com
 
 🔹📁
