@@ -84,4 +84,3 @@ Whether it's tracking customer loyalty, uncovering hidden patterns, or building 
 
 🔹📁 https://github.com/YiMa02
 
-🔹📁 https://gist.github.com/YiMa02  Past project on gist.github
